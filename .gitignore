@@ -1,0 +1,17 @@
+# 비밀 정보 (절대 올리지 마세요)
+.env
+
+# 실행 중 생기는 파일
+state/
+logs/
+results/
+data/
+STOP
+
+# 파이썬
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
